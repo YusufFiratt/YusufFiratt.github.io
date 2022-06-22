@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background: url(https://i.cnnturk.com/i/cnnturk/75/740x416/614c1ad670380e251833fd22.jpg);
+    background: url(https://cdnp.flypgs.com/files/ogp/pegassus-facebook.png);
     background-size: cover;
     background-color: #000000;
 }
@@ -24,7 +24,7 @@
     margin: 5px 2px;
     border-radius: 50%;
 
-    background: #000000;
+    background: #ff8c00;
     color: #ff0000;
 }
 
@@ -35,9 +35,9 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background: url(https://cdnuploads.aa.com.tr/uploads/Contents/2020/06/28/thumbs_b_c_ac0221b7727cb4b90192d2be2e4ef0c2.jpg?v=211745);
+    background: url(https://media-cdn.t24.com.tr/media/library/2020/04/1586776072673-peg.jpg);
     background-size: cover;
-    background-color: #ff0303;
+    background-color: #ff8e03;
 }
 #textBody2 {
     text-align: center;
@@ -59,7 +59,15 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background: url(https://cdn.sporx.com/img/59/2016/besiktas-mario-gomez-87124681741-transfer.jpg);
+    background: url(https://i4.hurimg.com/i/hurriyet/75/750x422/622609154e3fe11a2c9d62f2.jpg);
     background-size: cover;
-    background-color: #ff0303;
+    background-color: #ff8e03;
+}
+#backgroundBody4{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background: url(https://i4.hurimg.com/i/hurriyet/75/750x422/622609154e3fe11a2c9d62f2.jpg);
+    background-size: cover;
+    background-color: #ff8e03;
 }
